@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.Domain", "TripEnjoy.Domain\TripEnjoy.Domain.csproj", "{5A2C9335-D019-4F00-A420-4533B5D0175F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.Application", "TripEnjoy.Application\TripEnjoy.Application.csproj", "{03C88CED-B63C-45DD-BCC9-5298615B327F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.Infrastructure", "TripEnjoy.Infrastructure\TripEnjoy.Infrastructure.csproj", "{CFDA7246-4012-4248-8BFB-FFDEC0916AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.Presentation.WebAPI", "TripEnjoy.Presentation.WebAPI\TripEnjoy.Presentation.WebAPI.csproj", "{E4291424-3CC6-4730-9C61-4C9DC238A600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.WebClient", "TripEnjoy.WebClient\TripEnjoy.WebClient.csproj", "{B290723A-F796-45BE-897E-98A215F504FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripEnjoy.Presentation.WPF", "TripEnjoy.Presentation.WPF\TripEnjoy.Presentation.WPF.csproj", "{307490FB-BDB3-48AA-B579-636E064DC817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2C9335-D019-4F00-A420-4533B5D0175F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2C9335-D019-4F00-A420-4533B5D0175F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2C9335-D019-4F00-A420-4533B5D0175F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2C9335-D019-4F00-A420-4533B5D0175F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C88CED-B63C-45DD-BCC9-5298615B327F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C88CED-B63C-45DD-BCC9-5298615B327F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C88CED-B63C-45DD-BCC9-5298615B327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C88CED-B63C-45DD-BCC9-5298615B327F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDA7246-4012-4248-8BFB-FFDEC0916AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDA7246-4012-4248-8BFB-FFDEC0916AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDA7246-4012-4248-8BFB-FFDEC0916AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDA7246-4012-4248-8BFB-FFDEC0916AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4291424-3CC6-4730-9C61-4C9DC238A600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4291424-3CC6-4730-9C61-4C9DC238A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4291424-3CC6-4730-9C61-4C9DC238A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4291424-3CC6-4730-9C61-4C9DC238A600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B290723A-F796-45BE-897E-98A215F504FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B290723A-F796-45BE-897E-98A215F504FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B290723A-F796-45BE-897E-98A215F504FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B290723A-F796-45BE-897E-98A215F504FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307490FB-BDB3-48AA-B579-636E064DC817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307490FB-BDB3-48AA-B579-636E064DC817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307490FB-BDB3-48AA-B579-636E064DC817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307490FB-BDB3-48AA-B579-636E064DC817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78608E6A-D95E-44CE-B10D-E9E00ABCF570}
+	EndGlobalSection
+EndGlobal
